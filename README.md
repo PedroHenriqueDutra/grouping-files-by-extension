@@ -1,7 +1,5 @@
 # grouping-files-by-extension
 
-
-````markdown
 # File Organizer
 
 A simple script to organize files in a directory by their extension. It groups files into separate folders based on their file types (e.g., .jpg, .txt, .pdf), making it easier to manage and organize your files. You can also undo the last movement.
